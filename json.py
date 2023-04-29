@@ -10,7 +10,7 @@
         "connectionString": "mongodb://localhost:27017/"
       },
       "favorite": {
-        "name": "localhost"
+        "name": "Localhost"
       }
     },
     {
@@ -19,7 +19,7 @@
         "connectionString": "mongodb://localhost:270502/"
       },
       "favorite": {
-        "name": "Anthony",
+        "name": "Anthony's DB",
         "color": "color15"
       }
     }
